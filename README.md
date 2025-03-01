@@ -27,12 +27,12 @@ This is a game we've made for a Challenge at the Apple Developer Academy. We wan
 - Integrating SpriteKit Scene to SwiftUI
 - Setup Communication Between Views
 ## The Team
-#Coders
+# Coders
 - [@Myself](https://github.com/ClydeLJackson)
 - [@LillyToma](https://www.github.com/lillytoma)
-#Project Manager
+# Project Manager
 - Darnell Carter
-#Designers
+# Designers
 - Kaylah Hargrove
 - Kemaree Perine
 
